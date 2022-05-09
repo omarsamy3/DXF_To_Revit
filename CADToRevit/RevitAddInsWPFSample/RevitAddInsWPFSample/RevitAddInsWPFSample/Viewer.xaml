@@ -1,0 +1,21 @@
+﻿<Window x:Class="RevitAddInsWPFSample.Viewer"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:RevitAddInsWPFSample"
+             mc:Ignorable="d" Height="360" Width="320" Title="WPF Sample" 
+             WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <GroupBox Header="List of Views" Margin="5 0 5 5">
+            <GroupBox.HeaderTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding}" FontSize="15" Foreground="Gray"/>
+                </DataTemplate>
+            </GroupBox.HeaderTemplate>
+            <StackPanel>
+                <TreeView Name="treeview" Height="280" Margin="5 5 5 5"/>
+            </StackPanel>
+        </GroupBox>
+    </Grid>
+</Window>

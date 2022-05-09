@@ -1,0 +1,11 @@
+C:\Users\mrmin\OneDrive\Desktop\TwentyTwo_Tutorial\RevitAddInsTutorialOne\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\RevitAddInsWPFSample.csprojAssemblyReference.cache
+C:\Users\mrmin\OneDrive\Desktop\TwentyTwo_Tutorial\RevitAddInsTutorialOne\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\Viewer.g.cs
+C:\Users\mrmin\OneDrive\Desktop\TwentyTwo_Tutorial\RevitAddInsTutorialOne\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\RevitAddInsWPFSample_MarkupCompile.cache
+C:\Users\mrmin\OneDrive\Desktop\TwentyTwo_Tutorial\RevitAddInsTutorialOne\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\RevitAddInsWPFSample_MarkupCompile.lref
+C:\Users\mrmin\OneDrive\Desktop\TwentyTwo_Tutorial\RevitAddInsTutorialOne\RevitAddInsWPFSample\RevitAddInsWPFSample\bin\Debug\RevitAddInsWPFSample.dll
+C:\Users\mrmin\OneDrive\Desktop\TwentyTwo_Tutorial\RevitAddInsTutorialOne\RevitAddInsWPFSample\RevitAddInsWPFSample\bin\Debug\RevitAddInsWPFSample.pdb
+C:\Users\mrmin\OneDrive\Desktop\TwentyTwo_Tutorial\RevitAddInsTutorialOne\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\Viewer.baml
+C:\Users\mrmin\OneDrive\Desktop\TwentyTwo_Tutorial\RevitAddInsTutorialOne\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\RevitAddInsWPFSample.g.resources
+C:\Users\mrmin\OneDrive\Desktop\TwentyTwo_Tutorial\RevitAddInsTutorialOne\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\RevitAddInsWPFSample.csproj.CoreCompileInputs.cache
+C:\Users\mrmin\OneDrive\Desktop\TwentyTwo_Tutorial\RevitAddInsTutorialOne\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\RevitAddInsWPFSample.dll
+C:\Users\mrmin\OneDrive\Desktop\TwentyTwo_Tutorial\RevitAddInsTutorialOne\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\RevitAddInsWPFSample.pdb

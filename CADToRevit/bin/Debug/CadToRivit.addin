@@ -1,0 +1,16 @@
+﻿<?xml version ="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+
+	<AddIn Type="Command">
+		<Name>CadToRevit Commands</Name>
+		<Assembly>CadToRevit.dll</Assembly>
+		<AddInId>F4313291-FBAC-4274-A93C-7D78440C3272</AddInId>
+		<FullClassName>CADToRevit.Class1</FullClassName>
+		<Description>This is a Plugin to read dxf file in revit to draw grids</Description>
+		<VendorId>Omar Samy</VendorId>
+		<VendorDescription>Software Engineer</VendorDescription>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+
+</RevitAddIns>
+

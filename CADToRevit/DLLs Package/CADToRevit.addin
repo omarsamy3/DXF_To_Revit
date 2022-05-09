@@ -1,0 +1,16 @@
+﻿<?xml version ="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+
+	<AddIn Type="Application">
+		<Name>CADToRevit Commands</Name>
+		<Assembly>CADToRevit/CADToRevit.dll</Assembly>
+		<AddInId>5CE0BBCC-DD14-452B-9747-A2E93BBD589C</AddInId>
+		<FullClassName>CADToRevit.ExternalApplication</FullClassName>
+		<Description>This is a Plugin to read a dxf file in revit to draw grids, walls and floor</Description>
+		<VendorId>Omar Samy</VendorId>
+		<VendorDescription>Software Engineer</VendorDescription>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+
+</RevitAddIns>
+

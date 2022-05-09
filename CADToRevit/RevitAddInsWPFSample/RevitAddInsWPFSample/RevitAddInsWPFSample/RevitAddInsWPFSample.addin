@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>WPFSample</Name>
+    <FullClassName>RevitAddInsWPFSample.Class1</FullClassName>
+    <Text>RevitAddInsWPFSample</Text>
+    <Description>Sample ReivtAddIns Application with WPF</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <Assembly>TwentyTwo_Tutorial\RevitAddInsTutorialOne\RevitAddInsWPFSample\RevitAddInsWPFSample\bin\Debug\RevitAddInsWPFSample.dll</Assembly>
+    <AddInId>123ab456-1234-5678-9101-112131415161</AddInId>
+    <VendorId>TwentyTwo</VendorId>
+    <VendorDescription>TwentyTwo, Inc, https://twentytwo.space</VendorDescription>
+  </AddIn>
+</RevitAddIns>
