@@ -37,8 +37,7 @@ namespace CADToRevit
             PushButtonData Button4 = new PushButtonData("Button4", "Load file", assembly.Location, "CADToRevit.LoadFile");
             PushButton pushButton4 = Panel.AddItem(Button4) as PushButton;
 
-            Uri UriPath4 = new Uri("pack:application:,,,/CADToRevit;component/PluginIcons/LoadFile.png");
-            //Uri UriPath4 = new Uri(@"E:\A1Programming\1My.CEI Program\BIM III\Revit API\Coding19\Revit-API-Project\CADToRevit\CADToRevit\PluginIcons\LoadFile.png");
+            Uri UriPath4 = new Uri("pack://application:,,,/CADToRevit;component/PluginIcons/LoadFile.png");
             BitmapImage Image4 = new BitmapImage(UriPath4);
             pushButton4.LargeImage = Image4;
             #endregion
@@ -51,8 +50,7 @@ namespace CADToRevit
             PushButtonData Button1 = new PushButtonData("Button1", "Draw Grids", assembly.Location, "CADToRevit.CreateGrids");
             PushButton pushButton1 = Panel.AddItem(Button1) as PushButton;
 
-            Uri UriPath1 = new Uri("pack:application:,,,/CADToRevit;component/PluginIcons/Grids.png");
-            //Uri UriPath1 = new Uri(@"E:\A1Programming\1My.CEI Program\BIM III\Revit API\Coding19\Revit-API-Project\CADToRevit\CADToRevit\PluginIcons\Grids.png");
+            Uri UriPath1 = new Uri("pack://application:,,,/CADToRevit;component/PluginIcons/Grids.png");
             BitmapImage Image1 = new BitmapImage(UriPath1);
             pushButton1.LargeImage = Image1;
             #endregion
@@ -62,8 +60,7 @@ namespace CADToRevit
             PushButtonData Button2 = new PushButtonData("Button2", "Draw Walls", assembly.Location, "CADToRevit.CreateWalls");
             PushButton pushButton2 = Panel.AddItem(Button2) as PushButton;
 
-            Uri UriPath2 = new Uri("pack:application:,,,/CADToRevit;component/PluginIcons/Walls.png");
-            //Uri UriPath2 = new Uri(@"E:\A1Programming\1My.CEI Program\BIM III\Revit API\Coding19\Revit-API-Project\CADToRevit\CADToRevit\PluginIcons\Walls.png");
+            Uri UriPath2 = new Uri("pack://application:,,,/CADToRevit;component/PluginIcons/Walls.png");
             BitmapImage Image2 = new BitmapImage(UriPath2);
             pushButton2.LargeImage = Image2;
             #endregion
@@ -73,8 +70,7 @@ namespace CADToRevit
             PushButtonData Button3 = new PushButtonData("Button3", "Draw Floors", assembly.Location, "CADToRevit.CreateFloor");
             PushButton pushButton3 = Panel.AddItem(Button3) as PushButton;
 
-            Uri UriPath3 = new Uri("pack:application:,,,/CADToRevit;component/PluginIcons/Floors.png");
-            //Uri UriPath3 = new Uri(@"E:\A1Programming\1My.CEI Program\BIM III\Revit API\Coding19\Revit-API-Project\CADToRevit\CADToRevit\PluginIcons\Floors.png");
+            Uri UriPath3 = new Uri("pack://application:,,,/CADToRevit;component/PluginIcons/Floors.png");
             BitmapImage Image3 = new BitmapImage(UriPath3);
             pushButton3.LargeImage = Image3;
             #endregion 
