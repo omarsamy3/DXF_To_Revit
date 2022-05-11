@@ -7,9 +7,9 @@ This is a simple Revit API plugin to read the DXF file using netDXF library and 
 </p>
     <h1> Take in your consideration<h1>
       <h2>CAD DXF file Notes</h2>
-    <h4> Grids should be separated lines and its layer name should be "Grids".
-      Walls should be separated lines and its layer name should be "Walls".
-      Floor should be separated lines and its layer name should be "Floor"
+    <h4> Grids should be separated lines and its layer name should be "Grids".<br>
+      Walls should be separated lines and its layer name should be "Walls".<br>
+      Floor should be separated lines and its layer name should be "Floor"<br>
       <h2>Revit version</h2>
       Up to version 2021.
       Creation will be in the first level.
