@@ -22,5 +22,5 @@ https://user-images.githubusercontent.com/76973221/173254404-f21d0645-4615-46ee-
       <h2>Revit version</h2>
       Up to version 2021.<br>
       Creation will be in the first level.<br>
-      <h2>Wait for comming updates</h2>
+      <h2>Wait for upcoming updates</h2>
 </p>
