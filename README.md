@@ -1,6 +1,6 @@
 # DXF_To_Revit
 
-![Demo](https://user-images.githubusercontent.com/76973221/173254404-f21d0645-4615-46ee-8561-e26b4bb93552.mp4)
+https://user-images.githubusercontent.com/76973221/173254404-f21d0645-4615-46ee-8561-e26b4bb93552.mp4
 
 ## Description
 
